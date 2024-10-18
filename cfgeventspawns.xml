@@ -1,0 +1,6 @@
+<event name="VehicleHeliSpawn">
+    <!-- Note: more custom spawn points will be added as I further explore the map in-game -->
+    <!-- Nogovo Airfield Helipads -->
+    <pos x="7209.571289" z="7423.287109" />
+    <pos x="7068.837891" z="7418.448242" />
+</event>
